@@ -1,0 +1,3 @@
+rootProject.name = "Merged Manifest Bug"
+include ':app'
+include ':mylibrary'
