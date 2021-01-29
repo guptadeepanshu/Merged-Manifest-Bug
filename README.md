@@ -20,3 +20,6 @@ If the work manager dependency is added to the app module, the merged manifest v
 The issue can lead to unwanted permissions sneaking into the application when some dependencies are
 updated. Some permissions like background location and read sms, may be added by certain libraries
 and go unnoticed. This can lead to Play Store rejection.
+
+The issue has been reported at link: https://issuetracker.google.com/issues/178796185. Please star
+it to increase the chances of it being picked up by Google.
